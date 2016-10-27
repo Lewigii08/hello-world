@@ -1,18 +1,19 @@
 <DOCTYPE html>
 <html>
-<head>tester html page</head>
+<head>
 <style>
-h1: { 
-color: red
-background-color: blue
-border: 1px solid green
+h1 { 
+color: red;
+background-color: blue;
+border: 1px solid green;
 }
-body: {
-color: blue
-background-color: green
-border: 1px solid red
+body {
+color: blue;
+background-color: green;
+border: 1px solid red;
 }
 </style>
+</head>
 <body>
 <h1>My First Github HTML Test</h1>
 <p> this will be my first try at creating some basic HTML with CSS incorperated into it while using Github
